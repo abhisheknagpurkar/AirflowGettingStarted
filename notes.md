@@ -18,3 +18,6 @@ git push -u origin main
 #### Connect VS to remote gcp vm
 This command --> gcloud compute config-ssh generates the following which when you run in vs code adds the vm to vs code remote ssh extension
 ssh centos-stream-9.us-east4-c.dataengineeringongcp-400910
+
+###3 Airflow local env with astro dev
+https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fselectfrom.dev%2Fenabling-local-airflow-development-147e2d4c9adc
