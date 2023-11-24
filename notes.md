@@ -14,3 +14,7 @@ git commit -m "First commit"
 git remote add origin REMOTE-URL
 git remote -v
 git push -u origin main
+
+3. Connect VS to remote gcp vm
+This command --> gcloud compute config-ssh generates the following which when you run in vs code adds the vm to vs code remote ssh extension
+ssh centos-stream-9.us-east4-c.dataengineeringongcp-400910
